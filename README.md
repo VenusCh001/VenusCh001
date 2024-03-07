@@ -1,8 +1,9 @@
-### Hi there 👋
+
 
 # 💫 About Me:
-i'm currently working on improving my concepts of data structures and<br>algorithms .<br>side by side i am doing web development as well<br>
-i have done virtual reality development also in the previous year
+👋 i'm currently working on improving my concepts of data structures and algorithms .
+<br>👋 side by side i am doing web development as well
+<br>👋 i have done virtual reality development also in the previous year
 
 
 # 💻 Tech Stack:
