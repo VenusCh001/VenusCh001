@@ -4,6 +4,7 @@
 👋 i'm currently working on improving my concepts of data structures and algorithms .
 <br>👋 side by side i am doing web development as well
 <br>👋 i have done virtual reality development also in the previous year
+<br>👋 i am passionate about technology and love participating in hackathons and ideathons
 
 
 # 💻 Tech Stack:
